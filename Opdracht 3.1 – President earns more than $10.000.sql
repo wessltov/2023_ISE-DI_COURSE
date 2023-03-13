@@ -1,5 +1,5 @@
-/*3.1	Task 3.1 – President earns more than $10.000
-Implement and test the constraint ‘the president of the company earns more than $10.000 monthly’.
+/*3.1	Task 3.1 â€“ President earns more than $10.000
+Implement and test the constraint â€˜the president of the company earns more than $10.000 monthlyâ€™.
 */
 USE COURSE;
 GO
