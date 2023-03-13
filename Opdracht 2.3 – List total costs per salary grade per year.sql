@@ -1,4 +1,4 @@
-/*Task 2.3 – List total costs per salary grade per year
+/*Task 2.3 â€“ List total costs per salary grade per year
 The cost per salary grade is calculated by the yearly salary of all employees of this grade. The yearly salary is based on the monthly salary plus the yearly bonus as defined per grade. 
 Give a list of all the salary grades, the total salary costs per salary grade (the bonus included) per year and also give a running total. 
 Use one or more windowing functions or CTE operators.
