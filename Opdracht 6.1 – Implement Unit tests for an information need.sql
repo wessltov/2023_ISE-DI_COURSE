@@ -1,4 +1,4 @@
-/*Task 6.1 – Implement Unit tests for an information need
+/*Task 6.1 â€“ Implement Unit tests for an information need
 Implement unit tests for one of the information needs as mentioned in chapter 2. Choose one yourself.
 */
 USE COURSE;
