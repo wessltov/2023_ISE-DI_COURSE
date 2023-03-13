@@ -1,5 +1,5 @@
-/*Task 3.2 – Company hires adult personnel only 
-Implement and test the constraint ‘the company hires adult personnel only’
+/*Task 3.2 â€“ Company hires adult personnel only 
+Implement and test the constraint â€˜the company hires adult personnel onlyâ€™
 */
 USE COURSE;
 GO
