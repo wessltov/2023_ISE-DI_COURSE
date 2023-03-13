@@ -1,5 +1,5 @@
-/*Task 4.1 – Trainers cannot teach different courses simultaneously 
-Implement and test a stored procedure enforcing the constraint ‘trainers cannot teach different courses simultaneously’. The constraint should be validated as soon as a new course offering is inserted.
+/*Task 4.1 â€“ Trainers cannot teach different courses simultaneously 
+Implement and test a stored procedure enforcing the constraint â€˜trainers cannot teach different courses simultaneouslyâ€™. The constraint should be validated as soon as a new course offering is inserted.
 */
 USE COURSE;
 GO
