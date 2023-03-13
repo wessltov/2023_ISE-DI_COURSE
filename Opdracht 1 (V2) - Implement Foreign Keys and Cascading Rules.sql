@@ -2,12 +2,12 @@
 Check the constraint script, add the correct foreign key and cascading rule declarations as depicted in the PowerDesigner PDM.
 
 The PDM schema uses some abbrevations:
-•	Upd() means no cascade
-•	Upd(C) means cascade
-•	Del(N) means set null
-•	cpa means change parent allowed. You can ignore this for this task.
+â€¢	Upd() means no cascade
+â€¢	Upd(C) means cascade
+â€¢	Del(N) means set null
+â€¢	cpa means change parent allowed. You can ignore this for this task.
 
-Make sure you explicitly define the cascading rules. Don’t use default implementations.
+Make sure you explicitly define the cascading rules. Donâ€™t use default implementations.
 */
 USE COURSE;
 GO
