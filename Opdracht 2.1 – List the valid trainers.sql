@@ -1,4 +1,4 @@
-/*Task 2.1 – List the valid trainers
+/*Task 2.1 â€“ List the valid trainers
 Give a list of all offered courses that are given by a valid trainer. A valid trainer is:
 1)	someone whose job is trainer and who is at least one year an employee in this organization,
 2)	or someone who has attended this course (as a participant). 
