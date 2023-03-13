@@ -1,0 +1,3 @@
+;ALTER TABLE emp WITH CHECK
+	ADD CONSTRAINT CK_president_salary CHECK (job LIKE 'PRESIDENT' AND msal >= '10000')
+
