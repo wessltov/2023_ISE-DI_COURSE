@@ -1,4 +1,4 @@
-/*Task 6.2 – Implement Unit tests for a declarative constraint 
+/*Task 6.2 â€“ Implement Unit tests for a declarative constraint 
 Implement unit tests for one of the information needs as mentioned in chapter 3. Choose one yourself.
 */
 USE COURSE;
